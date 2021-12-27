@@ -1,12 +1,11 @@
 /* Applied to all */
-* {
+*{
 	box-sizing: border-box !important;
 	margin: 0;
 	padding: 0;
 }
-}
 /* Title */
-.heading{
+h1{
 	text-align: center;
 	padding-bottom: 50px;
 	padding-top: 50px;
